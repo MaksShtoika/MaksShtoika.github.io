@@ -1,0 +1,59 @@
+body{
+    background-color: rgb(140, 140, 140);
+
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: auto;
+    max-width: 800px;
+}
+.maks{
+    
+    
+    width: 200px;
+    height: 250px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 20px black;
+}
+
+.name{
+    margin: 10px;
+    margin-left: 0px;
+}
+.info{
+    display:flex ;
+}
+
+.info-text{
+    margin-left: 40px ;
+}
+
+.skils{
+    background: #9370DB;
+    border-radius: 10px;
+    padding: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 20px;
+    box-shadow: 10px 10px 20px black;
+}
+
+.hobbi{
+    background: #7FFFD4	;
+    border-radius: 10px;
+    padding: 30px;
+    padding-top: 10px;
+    margin: 20px;
+    box-shadow: 10px 10px 20px black;  
+}
+
+.social{
+    background: #00FA9A	;
+    border-radius: 10px;
+    padding: 30px;
+    padding-top: 10px;
+    margin: 20px; 
+    box-shadow: 10px 10px 20px black;
+}
+
+
+
